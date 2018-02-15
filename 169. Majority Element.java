@@ -9,8 +9,8 @@ public class Solution {
             if (map.get(key) > len / 2) {
                 return key;
             }
-		    }
+        }
 
-		    return 0;
+        return 0;
     }
 }
